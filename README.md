@@ -1,21 +1,27 @@
-# Web-Wizardry-finally
+# Movie Recommendation Website
 
-TEAM MEMBER 1:
+This project is a movie recommendation website that utilizes the TMDB (The Movie Database) API to provide users with information about movies, including details, ratings, and recommendations. The website is built using HTML, CSS, and JavaScript.
 
-Name: Milan  
-UID: 21BCS4362  
-Phone Number: 9350084504  
+## Features
 
+- **Search Functionality**: Users can search for movies by title, genre, or keywords.
+- **Movie Details**: Detailed information about each movie, including synopsis, release date, genres, and ratings.
+- **Recommendations**: The website provides movie recommendations based on user preferences and viewing history, leveraging the TMDB API's recommendation features.
+- **Responsive Design**: The website is responsive and optimized for various screen sizes, ensuring a seamless user experience across devices.
 
-TEAM MEMBER 2:
+## Technologies Used
 
-Name: Sakshi Pant  
-UID: 21BCS4139  
-Phone Number: 7974048687  
- 
+- HTML
+- CSS
+- JavaScript
+- TMDB API
 
-TEAM MEMBER 3:
+## Usage
 
-Name: Anshuman Raturi  
-UID: 21BCS4266   
-Phone Number: 6388466381  
+To use the movie recommendation website:
+
+1. Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/your-username/your-repository.git
+cd your-repository
